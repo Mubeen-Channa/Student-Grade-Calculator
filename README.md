@@ -13,3 +13,6 @@ This C++ program calculates the grade of a student based on the marks obtained i
 - 21-32: Fail
 - Below 21: Invalid
 <br></br>
+
+Usage
+
