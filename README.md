@@ -14,9 +14,11 @@ This C++ program calculates the grade of a student based on the marks obtained i
 - Below 21: Invalid
 <br></br>
 
-Usage
+## Usage
 1. Run the program.
 2. Enter the marks obtained in 5 subjects when prompted.
 3. The program will calculate the average and display the corresponding grade.
-
 <br></br>
+
+## Contributing
+Contributions are welcome! Feel free to fork the repository and submit pull requests to suggest improvements or add new features.
