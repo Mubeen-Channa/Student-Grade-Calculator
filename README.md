@@ -22,3 +22,10 @@ This C++ program calculates the grade of a student based on the marks obtained i
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests to suggest improvements or add new features.
+<br></br>
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+<br></br>
+
+  Feel free to suggest any improvements or contribute to the project! 
